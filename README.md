@@ -1,4 +1,4 @@
-#### Project repository for the course "Data science and advanced Python concepts workshop for neuroscience" (8527502001) 
+### Project repository for the course Data Science and Advanced Python Concepts Workshop for Neuroscience (8527502001) 
 
 
 
